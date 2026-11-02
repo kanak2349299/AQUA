@@ -1,0 +1,15 @@
+# Secrets
+.env
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Node
+node_modules/
+dist/
+.DS_Store
